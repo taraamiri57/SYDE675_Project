@@ -10,10 +10,11 @@ The repository is composed of several directories. The explanation of each direc
     * Results (Figures and .xlsx files)  
     
 * ML models
- * A Google Colab file (.ipynb) to implement the Machine Learning models (Naive Bayes, SVM, and Random Forest) on the 2 Dataset
- * Results as figures and .xlsx files
+  * A Google Colab file (.ipynb) to implement the Machine Learning models (Naive Bayes, SVM, and Random Forest) on the 2 Dataset
+  * Results as figures and .xlsx files
+  
 * Dataset
- * Two Dataset as .xlsx files. One for the Fracture Radiographs and Chest Radiographs as .xlsx files
+  * Two Dataset as .xlsx files. One for the Fracture Radiographs and Chest Radiographs as .xlsx files
 
 
 ## Technologies
