@@ -3,11 +3,17 @@
 The repository is composed of several directories. The explanation of each directory is as below:
 * DL Models (Paper code implementation)
   * A python file (.py) file for implementing Neural Network models (Dense, CNN, and LSTM) on the 2 Dataset
-  * Results as figures and .xlsx files
-  * BERT Directory including:
-    * A python file (.py) file to implement the BERT model on the 2 Dataset
-    * A dutch pre-trained model downloaded from:
-    * Results (Figures and .xlsx files)  
+  * Results for the Chest Dataset
+    * Figures
+    * 
+
+
+   
+  
+* BERT Directory including:
+  * A python file (.py) file to implement the BERT model on the 2 Dataset
+  * A dutch pre-trained model downloaded from:
+  * Results (Figures and .xlsx files)  
     
 * ML models
   * A Google Colab file (.ipynb) to implement the Machine Learning models (Naive Bayes, SVM, and Random Forest) on the 2 Dataset
