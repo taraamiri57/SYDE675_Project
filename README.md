@@ -1,6 +1,7 @@
 # SYDE675_Project
-## Table of contents
+## Directories
 * DL Models (Paper code implementation)
+* * .py file for implementing Dense, CNN, and LSTM Nural Network models on the 2 Dataset
 * ML models
 * Dataset
 
