@@ -1,6 +1,6 @@
 # SYDE675_Project
 ## Table of contents
-* [General info](#general-info)
+* DL Models (Paper code implementation)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * 
