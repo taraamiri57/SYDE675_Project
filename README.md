@@ -1,6 +1,8 @@
 # SYDE675_Project
 ## Directories
 The repository is composed of several directories. The explanation of each directory is as below:
+* Deep Learning‑Based Natural Language Processing in Radiology: The Impact of Report Complexity, Disease Prevalence, Dataset Size, and Algorithm Type on Model Performance
+* The original code for implementing the DL codes from the paper as a .pdf file: DLModels-OriginalCodePaper.pdf
 * DL Models (Paper code implementation)
   * A python file (.py) file for implementing Neural Network models (Dense, CNN, and LSTM) on the 2 Dataset
   * Results for the Chest Dataset
