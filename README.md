@@ -5,7 +5,10 @@ The repository is composed of several directories. The explanation of each direc
   * A python file (.py) file for implementing Neural Network models (Dense, CNN, and LSTM) on the 2 Dataset
   * Results for the Chest Dataset
     * Figures
-    * 
+    * .xlsx files including:
+      *  df_neg_TRAIN_THORAX_20201006: training set with negative labels  
+      *  df_pos_TRAIN_THORAX_20201006: 
+      
 
 
    
