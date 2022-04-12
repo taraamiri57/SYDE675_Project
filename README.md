@@ -7,8 +7,18 @@ The repository is composed of several directories. The explanation of each direc
     * Figures
     * .xlsx files including:
       *  df_neg_TRAIN_THORAX_20201006: training set with negative labels  
-      *  df_pos_TRAIN_THORAX_20201006: 
-      
+      *  df_pos_TRAIN_THORAX_20201006: training set with positive labels
+      *  df_TEST_THORAX_20201006: test set
+      *  Evaluation_Chest: summary of evaluations for the 3 NN models (Dense, CNN, LSTM)
+   
+  * Results for the Fracture Dataset
+    * Figures
+    * .xlsx files including:
+      *  df_neg_TRAIN_THORAX_20201006: training set with negative labels  
+      *  df_pos_TRAIN_THORAX_20201006: training set with positive labels
+      *  df_TEST_THORAX_20201006: test set
+      *  Evaluation_Chest: summary of evaluations for the 3 NN models (Dense, CNN, LSTM)
+       
 
 
    
