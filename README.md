@@ -33,7 +33,9 @@ The repository is composed of several directories. The explanation of each direc
   * Results as figures and .xlsx files
   
 * Dataset
-  * Two Dataset as .xlsx files. One for the Fracture Radiographs and Chest Radiographs as .xlsx files
+  * Two Dataset as .xlsx files:
+   * Data1.xlsx: Chest Radiographs
+   * Data2.xlsx: Fracture Radiographs
 
 
 ## Technologies
