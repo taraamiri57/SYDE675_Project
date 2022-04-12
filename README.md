@@ -20,8 +20,6 @@ The repository is composed of several directories. The explanation of each direc
       *  Evaluation_Chest: summary of evaluations for the 3 NN models (Dense, CNN, LSTM)
        
 
-
-   
   
 * BERT Directory including:
   * A python file (.py) file to implement the BERT model on the 2 Dataset
@@ -30,7 +28,7 @@ The repository is composed of several directories. The explanation of each direc
     
 * ML models
   * A Google Colab file (.ipynb) to implement the Machine Learning models (Naive Bayes, SVM, and Random Forest) on the 2 Dataset
-  * Results as figures and .xlsx files
+  (The figures and resutls are shown in the Google Colab file)
   
 * Dataset
   * Two Dataset as .xlsx files:
