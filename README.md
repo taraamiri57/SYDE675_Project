@@ -3,9 +3,9 @@
 The repository is composed of several directories. The explanation of each directory is as below:
 
 
-* DLModels (Paper code implementation):
+* DLModels:
 
-  * A python file (.py) file for implementing Neural Network models (Dense, CNN, and LSTM) on the 2 Datasets: Project-deepLearning-NN.py
+  * A python file (.py) for implementing Neural Network models (Dense, CNN, and LSTM) on the 2 Datasets: Project-deepLearning-NN.py
   
   * Results:
     * Results for the Chest Dataset
@@ -27,11 +27,12 @@ The repository is composed of several directories. The explanation of each direc
 
   
   
-  * A python file (.py) file to implement the BERT model on the 2 Datasets: BERT-model.py
+  * A python file (.py) to implement the BERT model on the 2 Datasets: BERT-model.py
     
     
     
 * MLmodels:
+
   * A Google Colab file (.ipynb) to implement the Machine Learning models (Naive Bayes, SVM, and Random Forest) on the Chest Dataset
   (The figures and resutls are shown in the Google Colab file): MLModels_ChestRadiographs.ipynb
   
