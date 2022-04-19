@@ -26,9 +26,9 @@ The repository is composed of several directories. The explanation of each direc
        
 
   
-  * BERT Directory including:
-    * A python file (.py) file to implement the BERT model on the 2 Dataset: BERT-model.py
-    * A floder including the dutch pre-trained model: bert-base-dutch-cased
+  
+  * A python file (.py) file to implement the BERT model on the 2 Dataset: BERT-model.py
+    
     
     
 * MLmodels:
