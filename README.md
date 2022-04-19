@@ -7,27 +7,28 @@ The repository is composed of several directories. The explanation of each direc
 
   * A python file (.py) file for implementing Neural Network models (Dense, CNN, and LSTM) on the 2 Dataset: Project-deepLearning-NN.py
   
-  * Results for the Chest Dataset
-    * Figures
-    * .xlsx files including:
-      *  df_neg_TRAIN_THORAX_20201006: training set with negative labels  
-      *  df_pos_TRAIN_THORAX_20201006: training set with positive labels
-      *  df_TEST_THORAX_20201006: test set
-      *  Evaluation_Chest: summary of evaluations for the 3 NN models (Dense, CNN, LSTM)
+  * Results:
+    * Results for the Chest Dataset
+      * Figures
+      * .xlsx files including:
+        *  df_neg_TRAIN_THORAX_20201006: training set with negative labels  
+        *  df_pos_TRAIN_THORAX_20201006: training set with positive labels
+        *  df_TEST_THORAX_20201006: test set
+        *  Evaluation_Chest: summary of evaluations for the 3 NN models (Dense, CNN, LSTM)
    
-  * Results for the Fracture Dataset
-    * Figures
-    * .xlsx files including:
-      *  df_neg_TRAIN_THORAX_20201006: training set with negative labels  
-      *  df_pos_TRAIN_THORAX_20201006: training set with positive labels
-      *  df_TEST_THORAX_20201006: test set
-      *  Evaluation_Chest: summary of evaluations for the 3 NN models (Dense, CNN, LSTM)
+    * Results for the Fracture Dataset
+      * Figures
+      * .xlsx files including:
+        *  df_neg_TRAIN_THORAX_20201006: training set with negative labels  
+        *  df_pos_TRAIN_THORAX_20201006: training set with positive labels
+        *  df_TEST_THORAX_20201006: test set
+        *  Evaluation_Chest: summary of evaluations for the 3 NN models (Dense, CNN, LSTM)
        
 
   
   * BERT Directory including:
     * A python file (.py) file to implement the BERT model on the 2 Dataset: BERT-model.py
-    * A dutch pre-trained model downloaded from:
+    * A floder including the dutch pre-trained model: wietsedv/bert-base-dutch-cased
     
     
 * MLmodels:
