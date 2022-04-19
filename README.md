@@ -3,8 +3,10 @@
 The repository is composed of several directories. The explanation of each directory is as below:
 * Deep Learning‑Based Natural Language Processing in Radiology: The Impact of Report Complexity, Disease Prevalence, Dataset Size, and Algorithm Type on Model Performance
 * The original code for implementing the DL codes from the paper as a .pdf file: DLModels-OriginalCodePaper.pdf
+
 * DL Models (Paper code implementation)
   * A python file (.py) file for implementing Neural Network models (Dense, CNN, and LSTM) on the 2 Dataset: Project-deepLearning-NN.py
+  
   * Results for the Chest Dataset
     * Figures
     * .xlsx files including:
@@ -24,9 +26,9 @@ The repository is composed of several directories. The explanation of each direc
 
   
   * BERT Directory including:
-    * A python file (.py) file to implement the BERT model on the 2 Dataset
+    * A python file (.py) file to implement the BERT model on the 2 Dataset: BERT-model.py
     * A dutch pre-trained model downloaded from:
-    * Results (Figures and .xlsx files)  
+    
     
 * ML models
   * A Google Colab file (.ipynb) to implement the Machine Learning models (Naive Bayes, SVM, and Random Forest) on the 2 Dataset
