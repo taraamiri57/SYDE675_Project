@@ -35,7 +35,7 @@ The repository is composed of several directories. The explanation of each direc
   (The figures and resutls are shown in the Google Colab file)
   
 * Paper
- * A pdf file which is the paper that was the motivation of this project:
+ * A pdf file which is the paper that was the motivation of this project: 
  * A pdf file including the original codes to implement the DL models on dataset downloaded from the paper: DLModels-OriginalCodePaper.pdf
   * Dataset
    * Two Dataset as .xlsx files:
