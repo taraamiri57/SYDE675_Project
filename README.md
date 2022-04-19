@@ -34,10 +34,13 @@ The repository is composed of several directories. The explanation of each direc
   * A Google Colab file (.ipynb) to implement the Machine Learning models (Naive Bayes, SVM, and Random Forest) on the 2 Dataset
   (The figures and resutls are shown in the Google Colab file)
   
-* Dataset
-  * Two Dataset as .xlsx files:
-   * Data1.xlsx: Chest Radiographs
-   * Data2.xlsx: Fracture Radiographs
+* Paper
+ * A pdf file which is the paper that was the motivation of this project:
+ * A pdf file including the original codes to implement the DL models on dataset downloaded from the paper: DLModels-OriginalCodePaper.pdf
+  * Dataset
+   * Two Dataset as .xlsx files:
+     * Data1.xlsx: Chest Radiographs
+     * Data2.xlsx: Fracture Radiographs
 
 
 ## Technologies
