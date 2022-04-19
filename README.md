@@ -5,7 +5,7 @@ The repository is composed of several directories. The explanation of each direc
 
 * DLModels (Paper code implementation):
 
-  * A python file (.py) file for implementing Neural Network models (Dense, CNN, and LSTM) on the 2 Dataset: Project-deepLearning-NN.py
+  * A python file (.py) file for implementing Neural Network models (Dense, CNN, and LSTM) on the 2 Datasets: Project-deepLearning-NN.py
   
   * Results:
     * Results for the Chest Dataset
@@ -27,7 +27,7 @@ The repository is composed of several directories. The explanation of each direc
 
   
   
-  * A python file (.py) file to implement the BERT model on the 2 Dataset: BERT-model.py
+  * A python file (.py) file to implement the BERT model on the 2 Datasets: BERT-model.py
     
     
     
